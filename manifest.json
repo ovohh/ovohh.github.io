@@ -1,0 +1,20 @@
+{
+	"name": "跨区组队工具",
+	"short_name": "跨区工具",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "/vite.svg",
+			"sizes": "64x64 32x32 24x24 16x16",
+			"type": "image/svg+xml"
+		}
+	],
+	"background_color": "#000000",
+	"version": "1.0.0",
+	"description": "A brief description of your project",
+	"main": "index.html",
+	"display": "standalone",
+	"scripts": {
+		"start": "node index.js"
+	}
+}
